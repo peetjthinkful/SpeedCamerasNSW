@@ -1,0 +1,678 @@
+[
+  {
+    "lng":149.1020789,
+    "lat":-35.3571862,
+    "address":"Hindmarsh Dr, Canberra, ACT"
+  },
+  {
+    "lng":151.043139,
+    "lat":-31.0603899,
+    "address":"New England Hwy speed limit 100 km/h  100"
+  },
+  {
+    "lng":150.8606807,
+    "lat":-31.4596725,
+    "address":"New England Hwy; speed limit 100 km/h  100"
+  },
+  {
+    "lng":149.8238857,
+    "lat":-36.5747471,
+    "address":"Princes Hwy speed limit 100 km/h  100"
+  },
+  {
+    "lng":149.824917,
+    "lat":-36.576215,
+    "address":" Fixed Speed Camera Location - Princes Hwy 2  100"
+  },
+  {
+    "lng":150.9972647,
+    "lat":-33.8492101,
+    "address":" Speed Camera - 70Kph Oxford Woodville  70; 6"
+  },
+  {
+    "lng":150.892374,
+    "lat":-34.389672,
+    "address":" Speed Camera - Balgownie Rd  50; 7"
+  },
+  {
+    "lng":149.127076,
+    "lat":-35.275495,
+    "address":" Speed Camera - Barry Drv  60; 8"
+  },
+  {
+    "lng":150.632569,
+    "lat":-33.533609,
+    "address":" Speed Camera - Bells Line Of Rd  60; 9"
+  },
+  {
+    "lng":151.170631,
+    "lat":-33.752099,
+    "address":" Speed Camera - Birdwood Av  60; 10"
+  },
+  {
+    "lng":151.326816,
+    "lat":-33.491174,
+    "address":" Speed Camera - Blackwall Rd  60; 11"
+  },
+  {
+    "lng":151.10195,
+    "lat":-33.803208,
+    "address":" Speed Camera - Blaxland Rd  60; 12"
+  },
+  {
+    "lng":150.605928,
+    "lat":-34.85761,
+    "address":" Speed Camera - Bolong Rd  60; 13"
+  },
+  {
+    "lng":150.731486,
+    "lat":-34.844873,
+    "address":" Speed Camera - Bolong Rd2  90; 14"
+  },
+  {
+    "lng":151.114663,
+    "lat":-33.913884,
+    "address":" Speed Camera - Canterbury Rd 1  60; 15"
+  },
+  {
+    "lng":151.068095,
+    "lat":-33.773782,
+    "address":" Speed Camera - Carlingford Rd 6  60; 16"
+  },
+  {
+    "lng":151.038899,
+    "lat":-33.740054,
+    "address":" Speed Camera - Castle Hill Rd  60; 17"
+  },
+  {
+    "lng":151.157849,
+    "lat":-33.812964,
+    "address":" Speed Camera - Centennial Ave  60; 18"
+  },
+  {
+    "lng":151.089804,
+    "lat":-33.849219,
+    "address":" Speed Camera - Concord Rd  60; 192392"
+  },
+  {
+    "lng":150.855186,
+    "lat":-33.902977,
+    "address":" Speed Camera - Cowpasture Rd  70; 20"
+  },
+  {
+    "lng":151.131362,
+    "lat":-34.035811,
+    "address":" Speed Camera - Cptn Cook Drive  70; 21"
+  },
+  {
+    "name": "Cross City1",
+    "lng":151.200995,
+    "lat":-33.874144,
+    "address":" Speed Camera - Cross City Tunnel 1  80; 22",
+    "city": "Sydney"
+  },
+  {
+    "name": "Cross City2",
+    "lng":151.203158,
+    "lat":-33.87465,
+    "address":" Speed Camera - Cross City Tunnel 2  80; 23",
+    "city": "Sydney"
+  },
+  {
+    "name": "Cross City3",
+    "lng":151.22515,
+    "lat":-33.876494,
+    "address":" Speed Camera - Cross City Tunnel 3  80; 24",
+    "city": "Sydney"
+  },
+  {
+    "lng":142.15731,
+    "lat":-34.189385,
+    "address":" Speed Camera - Deaken Ave 1  60; 25"
+  },
+  {
+    "lng":142.153618,
+    "lat":-34.192392,
+    "address":" Speed Camera - Deaken Ave 2  60; 26"
+  },
+  {
+    "lng":151.145343,
+    "lat":-33.795991,
+    "address":" Speed Camera - Delhi Rd  60; 27"
+  },
+  {
+    "lng":149.056386,
+    "lat":-35.378502,
+    "address":" Speed Camera - Drakeford Drv  80; 28"
+  },
+  {
+    "lng":144.263343,
+    "lat":-36.755573,
+    "address":" Speed Camera - Eaglehawk Rd  60; 29"
+  },
+  {
+    "lng":151.218069,
+    "lat":-33.871099,
+    "address":" Speed Camera - Eastern Distributor 1  80; 30"
+  },
+  {
+    "lng":151.217189,
+    "lat":-33.882778,
+    "address":" Speed Camera - Eastern Distributor Tunnel 1  80; 31"
+  },
+  {
+    "lng":151.207991,
+    "lat":-33.794096,
+    "address":" Speed Camera - Eastern Valley Way  60; 32"
+  },
+  {
+    "lng":150.894484,
+    "lat":-33.898179,
+    "address":" Speed Camera - Elizabeth Dr  60; 33"
+  },
+  {
+    "lng":151.183952,
+    "lat":-33.488112,
+    "address":" Speed Camera - F3 Motorway  90; 34"
+  },
+  {
+    "lng":150.978938,
+    "lat":-33.869646,
+    "address":" Speed Camera - Fairfield St  60; 35"
+  },
+  {
+    "lng":149.1703641,
+    "lat":-35.2229711,
+    "address":" Speed Camera - Federal Highway  80; 36"
+  },
+  {
+    "lng":150.892541,
+    "lat":-34.41153,
+    "address":" Speed Camera - Flinders St1  60; 37"
+  },
+  {
+    "lng":151.181376,
+    "lat":-33.945887,
+    "address":" Speed Camera - General Holmes Dr  60; 38"
+  },
+  {
+    "lng":150.795108,
+    "lat":-33.628397,
+    "address":" Speed Camera - George St  60; 39"
+  },
+  {
+    "lng":151.027547,
+    "lat":-33.939695,
+    "address":" Speed Camera - Gibson Ave  60; 40"
+  },
+  {
+    "lng":149.081251,
+    "lat":-35.231173,
+    "address":" Speed Camera - Ginninderra Dr 1  80; 41"
+  },
+  {
+    "lng":149.063545,
+    "lat":-35.22186,
+    "address":" Speed Camera - Ginninderra Dr 2  80; 42"
+  },
+  {
+    "lng":150.170881,
+    "lat":-33.543883,
+    "address":" Speed Camera - Great Western Hwy 1  90; 43"
+  },
+  {
+    "lng":150.59191,
+    "lat":-33.711888,
+    "address":" Speed Camera - Great Western Hwy 2  80; 44"
+  },
+  {
+    "lng":150.932717,
+    "lat":-33.822932,
+    "address":" Speed Camera - Greystanes Rd  60; 45"
+  },
+  {
+    "lng":151.213328,
+    "lat":-33.85306,
+    "address":" Speed Camera - Harbour Tunnel 1  80; 46"
+  },
+  {
+    "lng":151.213464,
+    "lat":-33.852775,
+    "address":" Speed Camera - Harbour Tunnel 2  80; 47"
+  },
+  {
+    "lng":151.010094,
+    "lat":-33.97923,
+    "address":" Speed Camera - Henry Lawson Dr 1  60; 48"
+  },
+  {
+    "lng":151.049576,
+    "lat":-33.960979,
+    "address":" Speed Camera - Henry Lawson Dr 2  60; 49"
+  },
+  {
+    "lng":151.349507,
+    "lat":-33.413724,
+    "address":" Speed Camera - Henry Parry Dr  60; 50"
+  },
+  {
+    "lng":144.270746,
+    "lat":-36.763547,
+    "address":" Speed Camera - High St 1  60; 51"
+  },
+  {
+    "lng":144.270449,
+    "lat":-36.763573,
+    "address":" Speed Camera - High St 2  60; 52"
+  },
+  {
+    "lng":149.101249,
+    "lat":-35.350676,
+    "address":" Speed Camera - Hindmarsh Drv 1  80; 53"
+  },
+  {
+    "lng":149.067876,
+    "lat":-35.348208,
+    "address":" Speed Camera - Hindmarsh Drv 2  80; 54"
+  },
+  {
+    "lng":151.00851,
+    "lat":-33.90473,
+    "address":" Speed Camera - Hume Hwy 1  70; 55"
+  },
+  {
+    "lng":147.770255,
+    "lat":-35.239595,
+    "address":" Speed Camera - Hume Hwy 2  100; 56"
+  },
+  {
+    "lng":148.185108,
+    "lat":-34.905999,
+    "address":" Speed Camera - Hume Hwy 3  100; 57"
+  },
+  {
+    "lng":151.092727,
+    "lat":-33.886536,
+    "address":" Speed Camera - Hume Hwy 4  60; 58"
+  },
+  {
+    "lng":150.965309,
+    "lat":-33.891351,
+    "address":" Speed Camera - Hume Hwy 5  70; 59"
+  },
+  {
+    "lng":147.736615,
+    "lat":-35.277165,
+    "address":" Speed Camera - Hume HwyTarcutta  50; 60"
+  },
+  {
+    "lng":151.022383,
+    "lat":-33.815388,
+    "address":" Speed Camera - James Ruse Dr  70; 61"
+  },
+  {
+    "lng":149.19407,
+    "lat":-35.37402,
+    "address":" Speed Camera - Lanyon Drv  80; 62"
+  },
+  {
+    "lng":151.104962,
+    "lat":-33.887522,
+    "address":" Speed Camera - Liverpool Rd  60; 63"
+  },
+  {
+    "lng":150.964379,
+    "lat":-33.816208,
+    "address":" Speed Camera - M4 Motorway 2  90; 64"
+  },
+  {
+    "lng":150.9638086,
+    "lat":-33.8159663,
+    "address":" Speed Camera - M4 Speed Camera; speed limit 90 km/h  90; 65"
+  },
+  {
+    "lng":151.153201,
+    "lat":-33.937973,
+    "address":" Speed Camera - M5 Motorway 1  80; 66"
+  },
+  {
+    "lng":151.111098,
+    "lat":-33.935963,
+    "address":" Speed Camera - M5 Motorway 2  80; 67"
+  },
+  {
+    "lng":151.111274,
+    "lat":-33.936156,
+    "address":" Speed Camera - M5 Motorway 3  80; 68"
+  },
+  {
+    "lng":151.232003,
+    "lat":-33.822441,
+    "address":" Speed Camera - Macpherson Rd  60; 69"
+  },
+  {
+    "lng":151.704627,
+    "lat":-32.857132,
+    "address":" Speed Camera - Maitland Rd 1  60; 70"
+  },
+  {
+    "lng":151.704073,
+    "lat":-32.856356,
+    "address":" Speed Camera - Maitland Rd 2  80; 71"
+  },
+  {
+    "lng":151.729699,
+    "lat":-32.892235,
+    "address":" Speed Camera - Maitland Rd 3  60; 72"
+  },
+  {
+    "lng":151.319512,
+    "lat":-33.420679,
+    "address":" Speed Camera - Manns Rd  60; 73"
+  },
+  {
+    "lng":151.68205,
+    "lat":-32.925256,
+    "address":" Speed Camera - Mccaffrey Dr  60; 74"
+  },
+  {
+    "lng":144.4046876,
+    "lat":-36.6540159,
+    "address":" Speed Camera - Midland Hwy A300; 75"
+  },
+  {
+    "lng":149.134712,
+    "lat":-36.229645,
+    "address":" Speed Camera - Monaro Hwy  100; 76"
+  },
+  {
+    "lng":152.016686,
+    "lat":-29.040242,
+    "address":" Speed Camera - New England Hwy 1  50; 77"
+  },
+  {
+    "lng":151.458093,
+    "lat":-32.699477,
+    "address":" Speed Camera - New England Hwy 10  60; 78"
+  },
+  {
+    "lng":150.895691,
+    "lat":-31.783701,
+    "address":" Speed Camera - New England Hwy 11  70; 79"
+  },
+  {
+    "lng":150.821927,
+    "lat":-31.757124,
+    "address":" Speed Camera - New England Hwy 13  60; 80"
+  },
+  {
+    "lng":152.018987,
+    "lat":-29.054305,
+    "address":" Speed Camera - New England Hwy 2  50; 81"
+  },
+  {
+    "lng":150.864687,
+    "lat":-32.039281,
+    "address":" Speed Camera - New England Hwy 2  60; 82"
+  },
+  {
+    "lng":151.677064,
+    "lat":-30.449111,
+    "address":" Speed Camera - New England Hwy 3  100; 83"
+  },
+  {
+    "lng":151.69103,
+    "lat":-30.395163,
+    "address":" Speed Camera - New England Hwy 4  100; 84"
+  },
+  {
+    "lng":151.71486,
+    "lat":-30.006227,
+    "address":" Speed Camera - New England Hwy 5  100; 85"
+  },
+  {
+    "lng":151.720438,
+    "lat":-30.084845,
+    "address":" Speed Camera - New England Hwy 6  100; 86"
+  },
+  {
+    "lng":151.68569,
+    "lat":-30.125077,
+    "address":" Speed Camera - New England Hwy 7  100; 87"
+  },
+  {
+    "lng":151.273212,
+    "lat":-32.653272,
+    "address":" Speed Camera - New England Hwy 8  60; 88"
+  },
+  {
+    "lng":150.860673,
+    "lat":-31.459547,
+    "address":" Speed Camera - New England Hwy 9  100; 89"
+  },
+  {
+    "lng":151.230583,
+    "lat":-33.876486,
+    "address":" Speed Camera - New South Head Rd  60; 90"
+  },
+  {
+    "lng":151.698,
+    "lat":-32.907984,
+    "address":" Speed Camera - Newcastle Rd  70; 91"
+  },
+  {
+    "lng":149.129187,
+    "lat":-35.279435,
+    "address":" Speed Camera - Northbourne Ave 1  60; 92"
+  },
+  {
+    "lng":149.129407,
+    "lat":-35.275989,
+    "address":" Speed Camera - Northbourne Ave 2  60; 93"
+  },
+  {
+    "lng":149.134151,
+    "lat":-35.247993,
+    "address":" Speed Camera - Northbourne Ave 3  60; 94"
+  },
+  {
+    "lng":150.876173,
+    "lat":-34.491867,
+    "address":" Speed Camera - Northcliffe Dr  60; 95"
+  },
+  {
+    "lng":150.900489,
+    "lat":-34.377938,
+    "address":" Speed Camera - Northern Distributor 1  80; 96"
+  },
+  {
+    "lng":150.900613,
+    "lat":-34.378012,
+    "address":" Speed Camera - Northern Distributor 2  80; 97"
+  },
+  {
+    "lng":151.319792,
+    "lat":-33.504398,
+    "address":" Speed Camera - Ocean Beach Rd  60; 98"
+  },
+  {
+    "lng":144.75009,
+    "lat":-36.140435,
+    "address":" Speed Camera - Ogilvie Ave  70; 99"
+  },
+  {
+    "lng":151.0162789,
+    "lat":-33.7171192,
+    "address":" Speed Camera - Old Northern Rd  40; 100"
+  },
+  {
+    "lng":152.823753,
+    "lat":-31.181746,
+    "address":" Speed Camera - Pacific Hwy 1  100; 101"
+  },
+  {
+    "lng":151.613172,
+    "lat":-33.134071,
+    "address":" Speed Camera - Pacific Hwy 10  90; 102"
+  },
+  {
+    "lng":152.730654,
+    "lat":-31.582861,
+    "address":" Speed Camera - Pacific Hwy 14  100; 103"
+  },
+  {
+    "lng":152.965254,
+    "lat":-30.69671,
+    "address":" Speed Camera - Pacific Hwy 9  100; 104"
+  },
+  {
+    "lng":151.692117,
+    "lat":-32.983676,
+    "address":" Speed Camera - Pacific Hwy Gateshead  60; 105"
+  },
+  {
+    "lng":151.369752,
+    "lat":-33.353415,
+    "address":" Speed Camera - Pacific Hwy Ourimbah  60; 106"
+  },
+  {
+    "lng":151.023266,
+    "lat":-33.835874,
+    "address":" Speed Camera - Parramatta Rd  60; 107"
+  },
+  {
+    "lng":151.008135,
+    "lat":-33.800862,
+    "address":" Speed Camera - Pennant Hills Rd 1  60; 108"
+  },
+  {
+    "lng":151.048973,
+    "lat":-33.782557,
+    "address":" Speed Camera - Pennant Hills Rd 2  60; 109"
+  },
+  {
+    "lng":151.083767,
+    "lat":-34.037544,
+    "address":" Speed Camera - President Ave  60; 110"
+  },
+  {
+    "lng":150.869738,
+    "lat":-34.426982,
+    "address":" Speed Camera - Princes Hwy 11  60; 111"
+  },
+  {
+    "lng":150.604044,
+    "lat":-34.869183,
+    "address":" Speed Camera - Princes Hwy 12  70; 112"
+  },
+  {
+    "lng":150.729576,
+    "lat":-34.763152,
+    "address":" Speed Camera - Princes Hwy 15  90; 113"
+  },
+  {
+    "lng":150.686336,
+    "lat":-34.774284,
+    "address":" Speed Camera - Princes Hwy 16  60; 114"
+  },
+  {
+    "lng":149.849126,
+    "lat":-36.625164,
+    "address":" Speed Camera - Princes Hwy 17  100; 115"
+  },
+  {
+    "lng":151.136318,
+    "lat":-33.968137,
+    "address":" Speed Camera - Princes Hwy 18  60; 116"
+  },
+  {
+    "lng":149.829067,
+    "lat":-36.519236,
+    "address":" Speed Camera - Princes Hwy 19  100; 117"
+  },
+  {
+    "lng":151.136623,
+    "lat":-33.967299,
+    "address":" Speed Camera - Princes Hwy 20  60; 118"
+  },
+  {
+    "lng":150.761436,
+    "lat":-34.742239,
+    "address":" Speed Camera - Princes Hwy 22  90; 119"
+  },
+  {
+    "lng":150.913918,
+    "lat":-34.330014,
+    "address":" Speed Camera - Princes Hwy 4  60; 120"
+  },
+  {
+    "lng":150.913627,
+    "lat":-34.331576,
+    "address":" Speed Camera - Princes Hwy 5  60; 121"
+  },
+  {
+    "lng":149.83626,
+    "lat":-36.630999,
+    "address":" Speed Camera - Princes Hwy 9  100; 122"
+  },
+  {
+    "lng":150.797334,
+    "lat":-33.661195,
+    "address":" Speed Camera - Richmond Rd  80; 123"
+  },
+  {
+    "lng":150.883776,
+    "lat":-34.406238,
+    "address":" Speed Camera - Southern Fwy 1  80; 124"
+  },
+  {
+    "lng":150.881356,
+    "lat":-34.414762,
+    "address":" Speed Camera - Southern Fwy 2  80; 125"
+  },
+  {
+    "lng":150.8552166,
+    "lat":-33.9029696,
+    "address":" Speed Camera - Speed Camera 201  70; 126"
+  },
+  {
+    "lng":151.245353,
+    "lat":-33.809942,
+    "address":" Speed Camera - Spit Rd  60; 127"
+  },
+  {
+    "lng":151.342852,
+    "lat":-33.358225,
+    "address":" Speed Camera - Sydney Newcastle Fwy  110; 128"
+  },
+  {
+    "lng":151.430839,
+    "lat":-33.439497,
+    "address":" Speed Camera - Terrigal Dr  60; 129"
+  },
+  {
+    "lng":151.475018,
+    "lat":-33.37174,
+    "address":" Speed Camera - The Entrance Rd  60; 130"
+  },
+  {
+    "lng":149.0632076,
+    "lat":-35.3211441,
+    "address":" Speed Camera - Tuggeranong Parkway  100; 131"
+  },
+  {
+    "lng":151.210677,
+    "lat":-33.841141,
+    "address":" Speed Camera - Warringah Fwy  80; 132"
+  },
+  {
+    "lng":151.225538,
+    "lat":-33.752585,
+    "address":" Speed Camera - Warringah Rd  70; 133"
+  },
+  {
+    "lng":151.295146,
+    "lat":-33.481144,
+    "address":" Speed Camera - Woy Woy Bay  80; 134"
+  }
+]

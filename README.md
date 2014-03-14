@@ -5,7 +5,7 @@ Uses the Google Store Locator Api, more specifically the jQuery plugin by Bjorn 
 ###jQuery Store Locator Plugin
 
 ####How it works
-User searches for a location
+User searches for a location and the following code is executed in the jquery.storelocator.js file.
 
 	function get_form_values(e)
 		- Handles form submission and calls begin_mapping();
